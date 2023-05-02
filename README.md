@@ -1,6 +1,6 @@
 # All my notes and explanations on notion.com below
 
-https://ustel.notion.site/REACT-TUTORIAL-de77e161936d416da94425ddb7e0f644
+https://ustel.notion.site/REACT-TUTORIAL-de77e161936d416da94425ddb7e0f644 
 
 # Getting Started with Create React App
 
